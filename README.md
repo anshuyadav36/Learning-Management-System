@@ -104,5 +104,34 @@ Open the project in your preferred Java IDE, configure the required dependencies
 Follow the specific instructions for your framework if the project uses Spring Boot, Servlets, or JSP.
 
 ## 📚 Learning Outcomes
+📚 Learning Outcomes
 
--
+Understanding Java application development.
+
+Working with relational databases using MySQL.
+
+Understanding CRUD operations.
+
+Learning database connectivity and application structure.
+
+Using Git and GitHub for project management.
+
+🔮 Future Improvements
+
+Role-based access for students, teachers, and administrators.
+
+Online assignments and quizzes.
+
+Course progress tracking.
+
+Attendance management.
+
+Improved user interface and security.
+
+👨‍💻 Author
+mr.Aryan Tiwari
+Anshu yadav 
+B.Tech – Artificial Intelligence and Machine Learning
+Galgotias University 
+📄 License
+This project is created for educational and learning purposes.
